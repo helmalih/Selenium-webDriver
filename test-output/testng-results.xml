@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-03T03:49:21 WEST" name="Default suite" finished-at="2024-05-03T03:49:32 WEST" duration-ms="11094">
+    <groups>
+    </groups>
+    <test started-at="2024-05-03T03:49:21 WEST" name="Default test" finished-at="2024-05-03T03:49:32 WEST" duration-ms="11094">
+      <class name="com.herokuapp.theinternet.TestCase5">
+        <test-method signature="timeoutException()[pri:0, instance:com.herokuapp.theinternet.TestCase5@71ba6d4e]" started-at="2024-05-03T03:49:21 WEST" name="timeoutException" finished-at="2024-05-03T03:49:32 WEST" duration-ms="11048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeoutException -->
+      </class> <!-- com.herokuapp.theinternet.TestCase5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

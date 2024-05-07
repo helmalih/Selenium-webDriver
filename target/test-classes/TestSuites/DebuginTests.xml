@@ -1,0 +1,12 @@
+<suite name="debuginTest" verbose="1">
+	<test name="TestCase1">
+		<parameter name="browser" value="chrome" ></parameter>
+		<classes>
+			<class name="com.herokuapp.theinternet.TestCase1" />
+			<methods>
+				<include name="noSuchElementException">
+				</include>
+			</methods>
+		</classes>
+	</test>
+</suite>
